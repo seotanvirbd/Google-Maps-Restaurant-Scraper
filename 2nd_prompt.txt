@@ -1,0 +1,10 @@
+
+This code is working nicely. 
+
+Now create another new  python file in which 
+
+ 1. The scraper will scrape all datas available from google map and   
+
+ 2. after that the scraper will go through all URLs in the Link column and scrape all details infos from each URL. 
+
+The HTML of each URL is like eachurl.html file.
